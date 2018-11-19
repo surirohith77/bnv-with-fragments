@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">bnvwithfragments</string>
+
+    <string name="hotel">Hotel</string>
+    <string name="home">Home</string>
+    <string name="home_favorites">Home Favorites</string>
+    <string name="hotels">Hotels</string>
+    <string name="person">Person</string>
+    <string name="perosnsss">perosnsss</string>
+    <string name="click_me">click me</string>
+</resources>
